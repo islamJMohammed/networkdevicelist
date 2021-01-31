@@ -1,0 +1,6 @@
+DeviceType,PID,Name,IpAddress,Username,Password,SnmpReadCommunity
+Switch,Switch249.177,Switch249.177_name,10.104.249.177,admin,R@vi3438,public
+Switch,PiTest123,PiTest123_name,10.104.62.167,P!test,P!test,public
+Router,CDB-8U-213,CDB-8U-213_name,10.104.249.13,smutest,smutest,public
+Router,ISR4321-249.50,ISR4321-249.50_name,10.104.249.50,admin,R@vi3438,public
+Router,ISR4321-249.49,ISR4321-249.49_name,10.104.249.49,admin,R@vi3438,public
